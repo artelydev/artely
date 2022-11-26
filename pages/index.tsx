@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>Artely</title>
         <meta name="description" content="Artely, where software is built" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/fav.ico" />
       </Head>
       <Text h1>Artely</Text>
       <Button>Cool!</Button>
